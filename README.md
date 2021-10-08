@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hamzaraj525
 - 👀 I’m interested in ... Mobile Development
-- 🌱 I’m currently learning ... React-Native
-- 💞️ I’m looking to collaborate on ... Mobile Development-Android Studio-java
+- 💞️ I’m looking to collaborate on ... React-Native-Mobile Development-Android Studio-java-javascript
 - 📫 How to reach me ...rajputhamza553@gmail.com
 
 <!---
